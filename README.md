@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Miller! 👋
 
-<!--
-**ofmsant/ofmsant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em **Ciência da Computação**  
+💡 Apaixonado por tecnologia e aprendizado contínuo  
+🔧 Atividades atuais: lógica de programação, Python, Git e GitHub  
+🌱 Motivado a aplicar tecnologia com impacto social e acessibilidade  
 
-Here are some ideas to get you started:
+## Meus interesses
+- Desenvolvimento web
+- Solução de problemas e automação
+- Criação de projetos simples com propósito
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vamos nos conectar!  
+[LinkedIn](linkedin.com/in/millersferreira)  
