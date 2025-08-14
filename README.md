@@ -12,3 +12,5 @@
 
 Vamos nos conectar!  
 [LinkedIn](linkedin.com/in/millersferreira)  
+
+![snake gif](https://github.com/ofmsant/ofmsant/blob/output/github-contribution-grid-snake.svg)
