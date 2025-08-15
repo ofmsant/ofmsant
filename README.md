@@ -31,6 +31,3 @@ Meu objetivo é unir conhecimento técnico com propósito, desenvolvendo projeto
 ## 📂 Projetos em destaque
 - [To-Do List (Lista de Tarefas)](https://github.com/ofmsant/Aula-Pr-tica) — Projeto simples para praticar JavaScript e manipulação do DOM.
 
----
-
-![snake gif](https://github.com/ofmsant/ofmsant/blob/output/github-contribution-grid-snake-dark.svg)
